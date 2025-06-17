@@ -98,8 +98,9 @@ Below are visual comparisons between the original 10 m Sentinel-2 RGB image an
 
 | Input (10 m) | Super-Resolved (2.5 m) |
 |--------------|------------------------|
-| ![10m input](assets/saronikos_S2.png) | ![2.5m super-res](assets/saronikos_super.png) |
-| ![10m input](assets/acheloos_S2.png) | ![2.5m super-res](assets/acheloos_super.png) |
+| ![10m input](assets/mykonos_s2.png) | ![2.5m super-res](assets/mykonos_super.png) |
+| ![10m input](assets/acheloos_s2.png) | ![2.5m super-res](assets/acheloos_super.png) |
+| ![10m input](assets/piraeus_s2.png) | ![2.5m super-res](assets/piraeus_super.png) |
 
 > 📌 **Note:**  
 > Interactive comparison sliders are available in the [demo notebook](./demo.ipynb)
