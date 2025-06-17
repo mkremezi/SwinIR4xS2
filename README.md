@@ -92,6 +92,20 @@ The notebook is fully annotated with explanations, visualizations, and key takea
 
 ---
 
+## 🖼️ Example Output
+
+Below are visual comparisons between the original 10 m Sentinel-2 RGB image and the super-resolved 2.5 m RGB output produced by our SwinIR model:
+
+| Input (10 m) | Super-Resolved (2.5 m) |
+|--------------|------------------------|
+| ![10m input](assets/saronikos_S2.png) | ![2.5m super-res](assets/saronikos_super.png) |
+| ![10m input](assets/acheloos_S2.png) | ![2.5m super-res](assets/acheloos_super.png) |
+
+> 📌 **Note:**  
+> Interactive comparison sliders are available in the [demo notebook](./demo.ipynb)
+
+---
+
 ## 📚 Source Components
 
 This work builds upon the following resources:
