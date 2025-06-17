@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+*.tif
+*.SAFE/
+*.ipynb_checkpoints/
+data/

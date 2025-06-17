@@ -1,0 +1,11 @@
+numpy
+torch
+rasterio
+scikit-image
+scikit-learn
+fiona
+shapely
+affine
+timm
+matplotlib
+jupyter_compare_view
