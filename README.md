@@ -72,6 +72,7 @@ pip install -r requirements.txt
 - affine
 - fiona
 - shapely
+- matplotlib
 - jupyter-compare-view (optional, for image sliders)
 
 ---
